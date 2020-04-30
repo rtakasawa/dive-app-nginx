@@ -131,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588234447343</updated>
-      <workItem from="1588234448675" duration="910000" />
+      <workItem from="1588234448675" duration="1338000" />
     </task>
     <servers />
   </component>
@@ -139,9 +139,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588234895767">
+    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588236046830">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588234895767" />
+    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588236046830" />
   </component>
 </project>

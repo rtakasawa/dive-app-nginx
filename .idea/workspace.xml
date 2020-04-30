@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5fd8d-3655-47ce-85ca-d9626504ad7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/nginx.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/unicorn.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/unicorn.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588234447343</updated>
-      <workItem from="1588234448675" duration="2196000" />
+      <workItem from="1588234448675" duration="3974000" />
     </task>
     <servers />
   </component>
@@ -148,9 +150,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588236046830">
+    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588238607752">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588236046830" />
+    <state x="586" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588238607752" />
   </component>
 </project>
